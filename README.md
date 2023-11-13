@@ -1,4 +1,6 @@
-<h1 align="left"> Swallow8801</h1>
+<h1 align="center"> Swallow8801</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
 
 <h3>소개</h3>
 졸업예정 및 취업준비 중인 컴퓨터공학과 4학년 학생입니다.
