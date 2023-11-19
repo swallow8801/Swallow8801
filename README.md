@@ -24,14 +24,17 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
-<div>
 <img src="https://img.shields.io/badge/C/C++-E34F26?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
+
+
+
+
+<h3>🛠공부중인 언어</h3>
+<div>
 <img src="https://img.shields.io/badge/Scala-E34F26?style=flat-square&logo=Scala&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/R-E34F26?style=flat-square&logo=R&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
-
-<h3>🛠공부중인 언어</h3>
 <!--
 **swallow8801/Swallow8801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3>🦢도약</h3>
