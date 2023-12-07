@@ -2,11 +2,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
 
-<h3>소개</h3>
-졸업예정 및 취업준비 중인 컴퓨터공학과 4학년 학생입니다. 
-자기소개서 [바로가기](https://www.notion.so/d800f99c88314a7cbf77d066b6d29d76?pvs=4)
+## 자기 소개
+### ● 주 관심분야인 머신러닝/딥러닝의 지속적인 학습 및 개발 경험
+### ● 다양한 학습 모델의 사용 경험과 딥러닝 모델에 대한 기본 지식
+### ● 팀 프로젝트 협업으로 앱 개발 경험
+### ● 끈기가 있어 시작한 일을 포기하지 않는 집념을 가지고 다양한 분야로 배울 의지가 있는 주니어 개발자입니다.
 
-<h3>🖥프로젝트</h3>
+## 🖥프로젝트
 
 ### 2023.09 - 2023.12 캡스톤 디자인 어플 제작 팀 [프로젝트](https://github.com/swallow8801/nmteamproject/tree/master)
 ### 2023.10 - 2023.11 머신러닝 이용한 얼굴 인식 및 학습 [프로젝트](https://github.com/swallow8801/FaceRecognitionReport)
