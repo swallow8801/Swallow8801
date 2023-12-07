@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
 
 <h3>소개</h3>
-졸업예정 및 취업준비 중인 컴퓨터공학과 4학년 학생입니다.
+졸업예정 및 취업준비 중인 컴퓨터공학과 4학년 학생입니다. 자기소개서 [바로가기](https://www.notion.so/d800f99c88314a7cbf77d066b6d29d76?pvs=4)
 
 <h3>🖥프로젝트</h3>
 
