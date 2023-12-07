@@ -2,18 +2,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
 
-## 자기 소개
+## 👓 자기 소개
 ### ● 주 관심분야인 머신러닝/딥러닝의 지속적인 학습 및 개발 경험
 ### ● 다양한 학습 모델의 사용 경험과 딥러닝 모델에 대한 기본 지식
 ### ● 팀 프로젝트 협업으로 앱 개발 경험
 ### ● 끈기가 있어 시작한 일을 포기하지 않는 집념을 가지고 다양한 분야로 배울 의지가 있는 주니어 개발자입니다.
 
-## 🖥프로젝트
+## 🖥 프로젝트
 
 ### 2023.09 - 2023.12 캡스톤 디자인 어플 제작 팀 [프로젝트](https://github.com/swallow8801/nmteamproject/tree/master)
 ### 2023.10 - 2023.11 머신러닝 이용한 얼굴 인식 및 학습 [프로젝트](https://github.com/swallow8801/FaceRecognitionReport)
 
-<h3>목표</h3>
+## 👍 목표
 <div>
 <img src="https://img.shields.io/badge/Hadoop-007396?style=flat-square&logo=ApacheHadoop&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
@@ -21,10 +21,11 @@
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apachekafka&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=Trino&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
 </div>
-등 데이터 플랫폼 사용 역량 늘리기
+
+### 등 데이터 플랫폼 사용 역량 늘리기
 
 
-<h3>🛠사용언어</h3>
+## 🛠사용언어 
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -35,7 +36,7 @@
 
 
 
-<h3>🛠공부중인 언어</h3>
+## 🛠공부중인 언어
 <div>
 <img src="https://img.shields.io/badge/Scala-E34F26?style=flat-square&logo=Scala&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/R-E34F26?style=flat-square&logo=R&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
