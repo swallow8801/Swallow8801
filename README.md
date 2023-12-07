@@ -7,7 +7,7 @@
 
 <h3>🖥프로젝트</h3>
 
-### 2023.09 - 2023.12 [캡스톤 디자인 어플 제작 팀프로젝트](https://github.com/swallow8801/TeamProject_CapstoneDesign) (진행중)
+### 2023.09 - 2023.12 [캡스톤 디자인 어플 제작 팀프로젝트](https://github.com/swallow8801/nmteamproject/tree/master) (진행중)
 ### 2023.10 - 2023.11 [머신러닝 이용한 얼굴 인식 및 학습 프로젝트](https://github.com/swallow8801/FaceRecognitionReport)
 
 <h3>목표</h3>
