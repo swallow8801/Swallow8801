@@ -1,7 +1,7 @@
 <h1 align="center"> Swallow8801</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bipa30)](https://solved.ac/bipa30/)
 ## 👓 자기 소개
 ### ● 주 관심분야인 머신러닝/딥러닝의 지속적인 학습 및 개발 경험
 ### ● 다양한 학습 모델의 사용 경험과 딥러닝 모델에 대한 기본 지식
