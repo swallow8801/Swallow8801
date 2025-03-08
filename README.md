@@ -1,66 +1,39 @@
-<h1 align="center"> Swallow8801</h1>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9ecdff&height=180&text=전재엽%20Github&animation=fadeIn&fontColor=4258ff&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 여러 프로젝트에서의 팀장 역할로 리더십과 책임감을 가진 개발자</li><li> Next.js 기반 웹 개발 및 DB 관리, Docker를 활용한 Azure 배포 경험</li><li> 다양한 딥러닝 모델 구현 및 LLM CV 모델 구현 경험 보유 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center">  </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=swallow8801&custom_title=swallow8801's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swallow8801&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swallow8801&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bipa30)](https://solved.ac/bipa30/)
-## 👓 자기 소개
-### ● 주 관심분야인 머신러닝/딥러닝의 지속적인 학습 및 개발 경험
-### ● 다양한 학습 모델의 사용 경험과 딥러닝 모델에 대한 기본 지식
-### ● 팀 프로젝트 협업으로 앱 개발 경험
-
-## 🖥 프로젝트
-
-### 2023.09 - 2023.12 캡스톤 디자인 어플 제작 팀 [프로젝트](https://github.com/swallow8801/nmteamproject/tree/master)
-### 2023.10 - 2023.11 머신러닝 이용한 얼굴 인식 및 학습 [프로젝트](https://github.com/swallow8801/FaceRecognitionReport)
-
-## 👍 목표
-<div>
-<img src="https://img.shields.io/badge/Hadoop-007396?style=flat-square&logo=ApacheHadoop&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apachekafka&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=Trino&logoColor=white" style="height : auto; margin-left : 12px; margin-right : 12px;"/></a>&nbsp;
-</div>
-
-### 등 데이터 플랫폼 사용 역량 늘리기
-
-
-## 🛠사용언어 
-<div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C/C++-E34F26?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
-
-
-
-
-## 🛠공부중인 언어
-<div>
-<img src="https://img.shields.io/badge/Scala-E34F26?style=flat-square&logo=Scala&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/R-E34F26?style=flat-square&logo=R&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
-<!--
-**swallow8801/Swallow8801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h3>🦢도약</h3>
-
-<h3>저를 더 알고싶다면</h3>
-<a href="https://velog.io/@987412563">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://i987412563i@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bipa30)](https://solved.ac/bipa30/)
