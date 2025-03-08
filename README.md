@@ -6,9 +6,9 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bipa30)](https://solved.ac/bipa30/)
  ---
  ## 👓 자기 소개
- ### ● 주 관심분야인 머신러닝/딥러닝의 지속적인 학습 및 개발 경험
- ### ● 다양한 학습 모델의 사용 경험과 딥러닝 모델에 대한 기본 지식
- ### ● 팀 프로젝트 협업으로 앱 개발 경험
+ ### ● 다양한 프로젝트의 팀장 역할로 책임감과 리더십을 겸비한 개발자
+ ### ● Next.js 기반 웹 개발 경험과 Docker 활용 Azure 서버 배포 경험
+ ### ● 다양한 딥러닝 모델 구현 및 튜닝 , LLM CV 모델 개발 경험
  
  ## 🖥 프로젝트
  
